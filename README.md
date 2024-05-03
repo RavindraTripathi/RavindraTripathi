@@ -48,9 +48,9 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavindraTripathi&layout=compact&theme=dark" alt=RavindraTripathi />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RavindraTripathi&show_icons=true&locale=en&theme=" alt="RavindraTripathi" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RavindraTripathi&show_icons=true&locale=en&theme=dark" alt="RavindraTripathi" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RavindraTripathi&theme=" alt="RavindraTripathi" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RavindraTripathi&theme=dark" alt="RavindraTripathi" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
