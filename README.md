@@ -10,8 +10,7 @@
 - 👨‍💻 All of my projects are available at **Ravindra.git.io**
 - 📝 I regularly write articles on **https://medium.com/@ravindra99**
 - ⚡ Fun fact **Endless debugging**
-- <div><a href="https://github.com/RavindraTripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:tripathiraviindra212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <div><a href="https://github.com/RavindraTripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a><a href = "mailto:tripathiraviindra212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
