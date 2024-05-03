@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
+<h1 align="center">Hi 👋, I'm Ravindra</h1>
 <h3 align="center">Software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RavindraTripathi&label=Profile%20views&color=0e75b6&style=flat" alt="RavindraTripathi" /> </p>
 
