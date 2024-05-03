@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravindra Tripathi</h1>
 <h3 align="center">By Passion I'm a web developer |By Profession I'm seeking to Data Analyst</h3>
 
-<img align="right"alt="coding"width="400"src="designergif.gif">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindratripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ravindratripathi" /> </p>
 
