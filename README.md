@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RAVINDRA KUMAR TRIPATHI
 ===============================================================================================================================================
 
-Web Developer | Data Analyst
+Software Developer 
 ----------------------------
 
-By Passion Web Developer and Designer | By Profession Data Analyst
+ Web Developer and Designer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [TRIPATHIRAVINDRA212@GMAIL.COM](mailto:TRIPATHIRAVINDRA212@GMAIL.COM)
