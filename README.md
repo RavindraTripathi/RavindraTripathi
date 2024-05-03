@@ -9,9 +9,9 @@ Software Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [TRIPATHIRAVINDRA212@GMAIL.COM](mailto:TRIPATHIRAVINDRA212@GMAIL.COM)
 * 🚀  I'm currently working on [Merkle Inc.](http://MERKLE.COM)
-* 🧠  I'm learning Power BI
-* 🤝  I'm open to collaborating on Data Analytics Project, SQL Project,
-* ⚡  Fun Fact Comedy is my autobiography
+* 🧠  I'm learning Cloud Computing.
+* 🤝  I'm open to collaborating on Full stack, SQL Project.
+* ⚡  Fun Fact Endless debugging.
 
 <a href="https://www.github.com/RavindraTripathi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RavindraTripathi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
