@@ -11,11 +11,12 @@
 - 👨‍💻 All of my projects are available at **Ravindra.git.io**
 - 📝 I regularly write articles on **https://medium.com/@ravindra99**
 - ⚡ Fun fact **Endless debugging**
+- 
+  <div><a href="https://github.com/RavindraTripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:tripathiraviindra212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-  <div><a href="https://github.com/RavindraTripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:tripathiraviindra212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://twitter.com/Ravindraku32234" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Ravindraku32234" height="30" width="40" /></a><a href="https://linkedin.com/in/ravindra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ravindra99" height="30" width="40" /></a><a href="https://www.youtube.com/c/1RK007" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="1RK007" height="30" width="40" /></a><a href="https://medium.com/@ravindra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@ravindra99" height="30" width="40" /></a></p>
 
