@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RavindraTripathi&theme=" alt="RavindraTripathi" /></a> </p>
 
 - 👯 I’m looking to collaborate on **SQL Project | Data Analytics**
-- 🌱 I’m currently learning **Power BI,Python.**
+- 🌱 I’m currently learning **Cloud Computing , Python**
 - 💬 Ask me about **HTML,CSS,PowerBI,Tableau,MySql**
 - 📫 How to reach me **tripathiravindra212@gmail.com**
 - 👨‍💻 All of my projects are available at **Ravindra.git.io**
