@@ -2,7 +2,7 @@
  I'm based in India<br>* ✉️  You can contact me at [TRIPATHIRAVINDRA212@GMAIL.COM](mailto:TRIPATHIRAVINDRA212@GMAIL.COM)<br>* 🚀  I'm currently working on [Merkle Inc.](http://MERKLE.COM)<br>* 🧠  I'm learning Cloud Computing<br>* 🤝  I'm open to collaborating on Full Stack Projects, End-to-End Projects<br>* ⚡  Endless Debugging<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindra99) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ravindra99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ravindraku32234) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1RK007) 
 
 # 💻 Tech Stack:
