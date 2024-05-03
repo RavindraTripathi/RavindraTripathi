@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindratripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ravindratripathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindratripathi" alt="ravindratripathi" /></a> </p>
+<p align="left" width="200"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindratripathi" alt="ravindratripathi" /></a> </p>
 
 - 🌱 I’m currently learning **PowerBI,Python**
 
