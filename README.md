@@ -1,4 +1,4 @@
-Hi,My name is Ravindra Kr. Tripathi
+<center>Hi,My name is Ravindra Kr. Tripathi</center>
 ========================================
 
 Web Developer | Data Analyst | Content Creator
