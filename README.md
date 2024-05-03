@@ -1,4 +1,4 @@
-# 💫Ravindra Tripathi:
+# 💫About Me :
 I'm based in India
 ✉️  You can contact me at TRIPATHIRAVINDRA212@GMAIL.COM
 🚀  I'm currently working on Merkle Inc.
