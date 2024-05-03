@@ -1,4 +1,4 @@
-Hi 👋 My name is Ravindra Kumar Tripathi
+Hi,My name is Ravindra Kr. Tripathi
 ========================================
 
 Web Developer | Data Analyst | Content Creator
